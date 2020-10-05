@@ -1,6 +1,6 @@
 # Hey there 👋
 
-<img align="right" alt="A hand draw image showing a man with a chart" src="https://user-images.githubusercontent.com/1889828/91927787-cadb7280-ecb0-11ea-9817-9f0c33c36c9f.png">
+<img align="right" alt="A hand draw image showing a man with a chart" src="https://user-images.githubusercontent.com/1889828/95036356-aac71680-0695-11eb-8653-49633882bf2a.jpeg">
 
 Kafran here.
 
