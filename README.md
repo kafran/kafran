@@ -4,4 +4,4 @@
 
 Kafran here.
 
-I’m a Software Engineer working as Data Engineer at <a href="https://gov.br">Brazil's Ministry of Economy</a>. I'm currently working on building the data pipeline for the Project of Analitical Enviroment for the HR Data. 💬 Feel free to ask me about Python, Airflow, Data Modeling and Software Engineering. You can reach me at https://kafran.net.
+I’m a Software Engineer working as Data Engineer at <a href="https://gov.br">Brazil's Ministry of Economy</a>. 💬 Feel free to ask me about Python, Airflow, Data Modeling, C# and .NET. You can reach me at https://www.linkedin.com/in/kolmar-kafran/.
