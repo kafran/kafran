@@ -2,3 +2,11 @@
 
 # Hey there 👋
 Welcome to my terminal. Yeah, it's a bunny 🐰
+
+## Portfolio
+My portfolio is available at [github.com/kafran-portfolio](https://github.com/kafran-portfolio)
+
+## Social Networks
+You can also reach me out at:
+* [StackOverflow](https://stackoverflow.com/users/3147247/kafran)
+* [LinkedIn](https://www.linkedin.com/in/kolmar-kafran/)
