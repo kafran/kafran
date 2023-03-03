@@ -1,3 +1,3 @@
-<img align="center" alt="A terminal blinking" src="https://user-images.githubusercontent.com/1889828/95415255-c6345a80-08fd-11eb-9658-cdb7b2f83047.gif">
+<img align="center" alt="A drawing of a smith building a smartphone" src="https://user-images.githubusercontent.com/1889828/222600816-6ff6dc64-f6d2-4347-a634-c2908ac44e53.jpeg">
 
 # Hey there 👋
